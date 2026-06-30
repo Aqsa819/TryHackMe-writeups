@@ -1,4 +1,3 @@
-# Nmap Live Host Discovery
 
 **Link:** https://tryhackme.com/room/nmap01
 **Path:** Level 2 - Tooling
@@ -33,7 +32,10 @@ nmap -sn -PU<port> <target_range>
 
 ## Findings / Screenshots
 
-(Add screenshots here showing scan output / live hosts discovered)
+<img width="1372" height="821" alt="image" src="https://github.com/user-attachments/assets/c3025d2f-c74f-4578-ab1d-69f18ade9734" /># Nmap Live Host Discovery
+
+
+
 
 ## What I Learned
 
