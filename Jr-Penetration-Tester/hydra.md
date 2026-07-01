@@ -40,7 +40,8 @@ hydra -l molly -P /usr/share/wordlists/rockyou.txt <MACHINE_IP> -t 4 ssh
 
 ## Findings / Screenshots
 
-(Add screenshots here — web form brute force output, SSH brute force output, flags captured)
+<img width="1257" height="362" alt="Screenshot 2026-07-01 121041" src="https://github.com/user-attachments/assets/3a30eaee-3c4f-428b-9089-e8e6e3e8cbd0" />
+
 
 ## What I Learned
 
